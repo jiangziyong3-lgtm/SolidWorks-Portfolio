@@ -7,9 +7,9 @@
 - 
 <img src="bracket_v1.png" width="500">
 
-## 3. Bracket v2
+## 2. Wheel v1
 
-- Features: Multi-feature, Slot, Complex structure
-- Description: More advanced structural part closer to real engineering component
+- Features: Revolve, Circular Pattern
+- Description: Symmetry and pattern practice
 
-<img src="bracket_v2.png" width="500">
+<img src="wheel_v1.png" width="500">
